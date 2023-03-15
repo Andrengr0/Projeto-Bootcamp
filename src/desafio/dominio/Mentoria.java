@@ -4,8 +4,6 @@ import java.time.LocalDate;
 
 public class Mentoria extends Conteudo{
     
-    private String titulo;
-    private String descricao;
     private LocalDate data;
 
     @Override
